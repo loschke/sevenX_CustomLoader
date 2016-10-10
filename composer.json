@@ -1,0 +1,21 @@
+{
+  "name": "sevenx/7x-loader",
+  "description": "Include Custom Post Types and Custom Fields into Wordpress as Plugin",
+  "keywords": ["wordpress", "plugin", "sevenx", "loader"],
+  "homepage": "https://github.com/loschke/sevenX_CustomLoader",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "sevenX - Rico Loschke",
+      "email": "hello@sevenX.de",
+      "homepage": "https://sevenx.de"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "php": ">=5.5",
+    "composer/installers": "v1.0.25"
+  }
+}

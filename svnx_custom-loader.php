@@ -2,8 +2,8 @@
 /*
 Plugin Name: 7x - CustomLoader
 Plugin URI: https://github.com/loschke/sevenX_CustomLoader
-Description: Include Custom Post Types and Custom Fields via Plugin.
-Version: 1.0
+Description: Include Custom Post Types and Custom Fields into Wordpress via Plugin.
+Version: 0.1
 Author: sevenX - Rico Loschke
 Author URI: http://sevenx.de
 Author Email: hello@sevenx.de
